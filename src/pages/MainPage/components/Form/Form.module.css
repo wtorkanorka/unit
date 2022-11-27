@@ -9,6 +9,7 @@
 
   background-size: cover;
   padding-bottom: 50px;
+  box-shadow: 0px 5px 10px 2px rgb(0 0 0) inset;
 }
 
 .text-part {
