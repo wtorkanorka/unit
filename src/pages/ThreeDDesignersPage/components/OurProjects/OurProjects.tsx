@@ -46,11 +46,6 @@ export function OurProject() {
         </SwiperSlide>{" "}
         <SwiperSlide>
           {" "}
-          <h3 className={styles["title-slide"]}>Четвёртый урок</h3>
-          <img className={styles["img"]} src={project4} alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
-          {" "}
           <h3 className={styles["title-slide"]}>Пятый урок</h3>
           <img className={styles["img"]} src={project5} alt="" />
         </SwiperSlide>
