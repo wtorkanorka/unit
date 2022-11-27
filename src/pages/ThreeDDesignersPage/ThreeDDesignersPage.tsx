@@ -21,6 +21,7 @@ export function ThreeDDesignersPage() {
         <img className={styles["img"]} src={semen} alt="" />
         <div className={styles["info"]}>
           {" "}
+          <h3 className={styles["title"]}>Руководитель</h3>
           <h2 className={styles["name"]}>Семён</h2>
           <div className={styles["main-info"]}>
             <ul className={styles["list"]}>
