@@ -1,0 +1,22 @@
+.main-page-hero {
+  padding: 0 135px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 200px;
+  justify-content: center;
+}
+
+.text-part {
+  max-width: 500px;
+}
+
+.title {
+  font-size: 100px;
+  margin-bottom: 50px;
+}
+
+.img {
+  max-width: 100%;
+}

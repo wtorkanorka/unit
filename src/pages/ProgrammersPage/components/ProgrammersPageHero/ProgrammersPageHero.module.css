@@ -1,0 +1,17 @@
+.programmers-page-hero {
+  padding: 0 135px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  padding-bottom: 200px;
+  justify-content: center;
+}
+
+.img {
+  max-height: 100%;
+}
+
+.title {
+  margin-bottom: 25px;
+}

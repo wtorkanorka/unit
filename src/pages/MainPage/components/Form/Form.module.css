@@ -1,0 +1,89 @@
+.form-container {
+  background: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: url("/src/assets/images/background-form.jpg");
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  padding-bottom: 50px;
+}
+
+.text-part {
+  margin-bottom: 30px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.error-container {
+  height: 50px;
+}
+
+.input[type="text"] {
+  font-family: "Ablation";
+  color: white;
+}
+
+.option {
+  font-family: "Ablation";
+}
+
+.input::placeholder {
+  font-family: "Ablation";
+  color: white;
+}
+
+.input[typeof="text"] {
+  font-family: "Ablation";
+  color: white;
+}
+
+.input-select {
+  font-family: "Ablation";
+  all: unset;
+  border-radius: 30px;
+  border: 1px solid white;
+  padding: 20px 30px;
+  color: white;
+  background-color: transparent;
+}
+textarea {
+  font-family: "Ablation";
+}
+
+.input-select:hover {
+  background-color: black;
+}
+
+.input {
+  all: unset;
+  border-radius: 30px;
+  border: 1px solid white;
+  padding: 20px 30px;
+}
+
+.form-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button {
+  all: unset;
+  color: black;
+  background: white;
+  border-radius: 30px;
+  cursor: pointer;
+  padding: 20px 30px;
+  font-family: "Ablation";
+  font-size: 20px;
+}
+
+.button-disabled {
+  background: gray;
+}

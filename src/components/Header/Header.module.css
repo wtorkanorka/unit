@@ -1,0 +1,34 @@
+.header {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  padding: 0 135px;
+  align-items: center;
+}
+
+.header-img {
+  height: 100px;
+  width: 100px;
+}
+
+.link {
+  all: unset;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  width: 140px;
+  padding: 0 10px;
+  border-radius: 40px;
+  border: 1px solid white;
+  height: 50px;
+  align-items: center;
+}

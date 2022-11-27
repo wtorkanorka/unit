@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Ablation";
+  src: url("./assets/fonts/Ablation-Extra-Bold.otf");
+}
+
+.swiper-pagination-bullet,
+.swiper-scrollbar-drag {
+  background: white;
+}
+
+a {
+  all: unset;
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+  font-family: "Ablation";
+  font-size: 48px;
+  line-height: 123.6%;
+}
+
+h2 {
+  font-size: 39.06px;
+  line-height: 123.6%;
+  color: white;
+  font-family: "Ablation";
+}
+
+h3 {
+  color: white;
+  font-family: "Ablation";
+  font-size: 30px;
+  line-height: 30px;
+}
+
+h4 {
+  color: white;
+  font-family: "Ablation";
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h5 {
+  color: white;
+  font-family: "Ablation";
+  font-size: 14px;
+  line-height: 30px;
+}
+
+p {
+  font-family: "Ablation";
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+}

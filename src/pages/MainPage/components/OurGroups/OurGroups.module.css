@@ -1,0 +1,50 @@
+.our-groups {
+  background: black;
+  padding: 0 135px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  padding-bottom: 120px;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 50px;
+}
+
+.content {
+  display: flex;
+  gap: 100px;
+  flex-wrap: wrap;
+  max-width: 800px;
+  justify-content: center;
+}
+
+.container {
+  min-width: 250px;
+  background: white;
+  padding: 60px 40px 10px 40px;
+  border-radius: 13px;
+  position: relative;
+}
+
+.text {
+  color: black;
+}
+
+.container-title {
+  color: black;
+  text-align: center;
+}
+
+.icon {
+  padding: 10px;
+  background: white;
+  border-radius: 59px;
+  top: -45px;
+  left: 112px;
+  border: 1px solid black;
+  width: 89px;
+  position: absolute;
+}

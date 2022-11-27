@@ -1,0 +1,18 @@
+.hero {
+  padding: 0 135px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  padding-bottom: 250px;
+  justify-content: center;
+  justify-content: center;
+}
+
+.img {
+  height: 600px;
+}
+
+.title {
+  margin-bottom: 25px;
+}

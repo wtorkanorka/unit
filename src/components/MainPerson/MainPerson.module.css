@@ -1,0 +1,9 @@
+.container {
+  padding: 0 135px;
+  background: black;
+  display: flex;
+  gap: 50px;
+  padding-bottom: 100px;
+  padding-top: ;
+  justify-content: center;
+}
