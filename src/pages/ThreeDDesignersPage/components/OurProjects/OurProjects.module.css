@@ -2,7 +2,9 @@
   background: black;
   padding-bottom: 200px;
 }
-
+.our-projects h3 {
+  text-align: center;
+}
 .title {
   text-align: center;
   margin-bottom: 30px;
@@ -10,4 +12,7 @@
 
 .title-slide {
   margin-bottom: 30px;
+}
+.img {
+  margin: 0 auto;
 }

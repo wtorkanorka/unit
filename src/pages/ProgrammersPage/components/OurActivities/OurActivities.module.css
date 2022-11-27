@@ -3,7 +3,9 @@
   padding: 0 135px;
   padding-bottom: 150px;
 }
-
+.our-activities h1 {
+  text-align: center;
+}
 .container {
   background: red;
   width: 100px;
@@ -12,4 +14,5 @@
 .img {
   width: 700px;
   height: 400px;
+  margin: 0 auto;
 }

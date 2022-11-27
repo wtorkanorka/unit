@@ -24,7 +24,6 @@ export function OurActivities() {
         scrollbar={{ draggable: true }}
       >
         <SwiperSlide>
-          {" "}
           <h1>Первый проектный опыт</h1>
           <img className={styles["img"]} src={activities2} alt="" />
         </SwiperSlide>
@@ -33,7 +32,6 @@ export function OurActivities() {
           <img className={styles["img"]} src={activities1} alt="" />
         </SwiperSlide>
         <SwiperSlide>
-          {" "}
           <h1>Хакатон ВТБ</h1>
           <img className={styles["img"]} src={activities3} alt="" />
         </SwiperSlide>
